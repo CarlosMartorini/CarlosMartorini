@@ -1,4 +1,5 @@
 ### Hi there, I'm Carlos Martorini 👋
+<h4>#<img height="40em" src="https://avatars.githubusercontent.com/u/56847172?s=200&v=4">made</h4>
 
 ##
 
@@ -9,24 +10,45 @@
 </div>
 
 ##
-
 <div>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <div>
+    <h2>Front-End</h2>
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png">
+    <img height="60em" src="https://www.styled-components.com/atom.png">
+    <img height="60em" src="https://material-ui.com/static/logo.png">
+  </div>
+  <div>
+    <h2>Back-End</h2>
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/608070591536298181-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png">
+  </div>
+  <div>
+    <h2>Everyday tools</h2>
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/7781217021556105338-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/19608875881557740376-512.png">
+    <img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png">
+    <img height="60em" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/16475775581551942134-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/14657432461551953703-512.png">
+    <img height="60em" src="https://image.flaticon.com/icons/png/512/2111/2111615.png">
+    <img height="60em" src="https://seeklogo.com/images/Z/zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo.com.png">
+    <img height="60em" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/9655574981556105319-512.png">
+    <img height="60em" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png">
+    <img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/11009343661540553611-512.png">
+  </div>
 </div>
-  
+
 ##
 
-<a href="https://www.linkedin.com/in/carlosmartorini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/carlosmartorini/" target="_blank"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
