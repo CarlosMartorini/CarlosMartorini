@@ -1,5 +1,4 @@
 ### Hi there, I'm Carlos Martorini <img height="40em" src="https://images.emojiterra.com/google/android-pie/512px/1f44b.png">
-<h4>#<img height="40em" src="https://avatars.githubusercontent.com/u/56847172?s=200&v=4" alt="Kenzie Academy">made</h4>
 
 ##
 
