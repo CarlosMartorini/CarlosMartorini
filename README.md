@@ -26,6 +26,8 @@
     <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" alt="Python">
     <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/608070591536298181-512.png" alt="Flask">
     <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" alt="Django">
+    <img height="60em" src="https://pics.freeicons.io/uploads/icons/png/203945761548330730-512.png" alt="SQL">
+    <img height="60em" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="MongoDB">
   </div>
   <div>
     <h2>Everyday tools</h2>
