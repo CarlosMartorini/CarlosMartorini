@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos Martorini <img height="40em" src="https://images.emojiterra.com/google/android-pie/512px/1f44b.png">
+### <img height="40em" src="https://images.emojiterra.com/google/android-pie/512px/1f44b.png"> Hi there, I'm Carlos Martorini a Full Stack Developer <img height="40em" src="https://images.emojiterra.com/google/android-11/512px/1f9d1-1f3fb-1f4bb.png">
 
 ##
 
@@ -8,49 +8,76 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMartorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-##
 <div>
   <div>
     <h2>Front-End</h2>
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="HTML">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="CSS">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" alt="JavaScript">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" alt="React">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" alt="TypeScript">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" alt="Redux">
-    <img height="45em" src="https://www.styled-components.com/atom.png" alt="styled-components">
-    <img height="45em" src="https://material-ui.com/static/logo.png" alt="Material-ui">
+    <img height="40em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img height="40em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img height="40em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=whit" />
   </div>
   <div>
     <h2>Back-End</h2>
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" alt="Python">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/608070591536298181-512.png" alt="Flask">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" alt="Django">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/203945761548330730-512.png" alt="SQL">
-    <img height="45em" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="MongoDB">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/16876668881551942134-512.png" alt="PostgreSQL">
+    <img height="40em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img height="40em" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=whit" />
   </div>
   <div>
-    <h2>Everyday tools</h2>
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/7781217021556105338-512.png" alt="Linux Ubuntu">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" alt="Git">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/19608875881557740376-512.png" alt="Terminal">
-    <img height="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode">
-    <img height="45em" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" alt="Insomnia">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/16475775581551942134-512.png" alt="Postman">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/14657432461551953703-512.png" alt="Trello">
-    <img height="45em" src="https://image.flaticon.com/icons/png/512/2111/2111615.png" alt="Slack">
-    <img height="45em" src="https://seeklogo.com/images/Z/zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo.com.png" alt="Zoom">
-    <img height="45em" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="Notion">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/9655574981556105319-512.png" alt="Figma">
-    <img height="45em" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="daily.dev">
-    <img height="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" alt="github">
-    <img height="45em" src="https://pics.freeicons.io/uploads/icons/png/11009343661540553611-512.png" alt="gitlab">
+    <h2>Tools</h2>
+    <img height="40em" src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E'/>
+    <img height="40em" src='https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important'/>
+    <img height="40em" src='https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
+    <img height="40em" src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>
+    <img height="40em" src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white'/>
   </div>
 </div>
 
-##
-
-<a href="https://www.linkedin.com/in/carlosmartorini/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a> 
+<h2>Social Media</h2>
+<a href="https://www.linkedin.com/in/carlosmartorini/" target="_blank"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a> 
  
